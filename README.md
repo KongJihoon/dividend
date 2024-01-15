@@ -39,9 +39,11 @@
 ### 회원
 
 ✅ POST /auth/signup
+
 `POST` 요청을 사용해서 회원가입을 할 수 있습니다.
 
 ✅ POST /auth/signin
+
 `POST` 요청을 사용해서 로그인을 할 수 있습니다.
 
   
